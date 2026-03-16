@@ -1,0 +1,8 @@
+server is listening
+new client accepted ('127.0.0.1', 47778)
+received hello
+received 123
+received bye
+received exit
+client left, waiting for next
+
