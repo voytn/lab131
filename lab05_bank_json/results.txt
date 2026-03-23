@@ -1,0 +1,6 @@
+Bank server on port 9092
+client ('127.0.0.1', 46750)
+
+Action (balance / deposit / withdraw): balance
+Balance: 0
+
